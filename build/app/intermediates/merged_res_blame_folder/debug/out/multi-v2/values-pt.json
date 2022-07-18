@@ -1,0 +1,36 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\Harsh Playboy\\AndroidStudioProjects\\sample\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-pt\\values-pt.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Harsh Playboy\\.gradle\\caches\\transforms-3\\c3e57968e56b8e1def0d531e98973d33\\transformed\\core-1.6.0\\res\\values-pt\\values-pt.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "487",
+                        "endColumns": "100",
+                        "endOffsets": "583"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Harsh Playboy\\.gradle\\caches\\transforms-3\\fa31571832489ce04a4338775435e028\\transformed\\browser-1.4.0\\res\\values-pt\\values-pt.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,170,269,381",
+                        "endColumns": "114,98,111,105",
+                        "endOffsets": "165,264,376,482"
+                    }
+                }
+            ]
+        }
+    ]
+}
